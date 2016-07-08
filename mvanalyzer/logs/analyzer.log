@@ -1,0 +1,6 @@
+2016-07-08 16:09:28 WARN  [main] DICLOG.<clinit>:88 - not find library.properties in classpath use it by default !
+  2016-07-08 16:09:28 WARN  [main] DICLOG.loadLibrary:160 - init userLibrary  warning :D:\Work\workspace\eclipse\analyzer\mvanalyzer\library\default.dic because : file not found or failed to read !
+  2016-07-08 16:09:28 WARN  [main] DICLOG.initAmbiguityLibrary:86 - init ambiguity  warning :D:\Work\workspace\eclipse\analyzer\mvanalyzer\library\ambiguity.dic because : file not found or failed to read !
+  2016-07-08 16:09:29 INFO  [main] DICLOG.loadDAT:75 - init core library ok use time :963
+  2016-07-08 16:09:29 INFO  [main] DICLOG.<clinit>:17 - init ngram ok use time :516
+  
